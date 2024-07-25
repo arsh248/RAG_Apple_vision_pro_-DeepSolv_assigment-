@@ -29,8 +29,8 @@ This Streamlit application leverages advanced language processing techniques to 
 1. Clone this repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/arsh248/RAG_Apple_vision_pro_-DeepSolv_assigment-
+    cd RAG_Apple_vision_pro_-DeepSolv_assigment-
     ```
 
 2. Create a `.env` file in the project directory with the following content:
