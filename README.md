@@ -46,14 +46,13 @@ This Streamlit application leverages advanced language processing techniques to 
 ## Usage
 
 1. Ensure you have your `.env` file with the necessary API keys.
-2. Place your PDF documents in the `./knowledge_base` directory.
-3. Run the Streamlit app:
+2. Run the Streamlit app:
 
     ```bash
     streamlit run app.py
     ```
 
-4. Open the provided URL in your web browser to access the chatbot.
+3. Open the provided URL in your web browser to access the chatbot.
 
 ## Code Explanation
 
