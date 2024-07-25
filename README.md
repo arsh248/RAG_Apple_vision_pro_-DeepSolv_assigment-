@@ -4,6 +4,9 @@
 
 This Streamlit application leverages advanced language processing techniques to create a Retrieval-Augmented Generation (RAG) chatbot. The chatbot is designed to assist users with inquiries related to Apple Vision Pro using a combination of GPT-3.5 turbo and Google Generative AI embeddings. The application also incorporates a FAISS vector database to efficiently handle and retrieve relevant information from a PDF knowledge base.
 
+<img width="1509" alt="image" src="https://github.com/user-attachments/assets/0cf0e96e-d5cd-44e8-b926-79d833c41268">
+
+
 ## Frameworks and Tools
 
 - **Framework**: LangChain
